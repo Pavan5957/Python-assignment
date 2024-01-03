@@ -1,0 +1,10 @@
+1 : adg
+2 : rg
+3 : dtht
+4 : dtt
+5 : f
+6 : wfr
+7 : wrf
+8 : wrrf
+9 : wrfr
+10 : wrf
